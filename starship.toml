@@ -17,6 +17,3 @@ disabled = false
 
 [directory]
 read_only = ' 🔒'
-
-#[rust]
-#symbol = ' '
