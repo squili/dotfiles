@@ -17,3 +17,6 @@ disabled = false
 
 [directory]
 read_only = ' 🔒'
+
+[gcloud]
+disabled = true
