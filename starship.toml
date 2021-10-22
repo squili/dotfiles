@@ -1,0 +1,22 @@
+format = '$directory$character'
+right_format = '$all'
+add_newline = false
+
+[cmd_duration]
+min_time = 5_000
+show_milliseconds = true
+
+[git_commit]
+tag_disabled = false
+only_detached = false
+tag_symbol = '  '
+format = '[\($hash$tag\)]($style) '
+
+[git_metrics]
+disabled = false
+
+[directory]
+read_only = ' 🔒'
+
+#[rust]
+#symbol = ' '
